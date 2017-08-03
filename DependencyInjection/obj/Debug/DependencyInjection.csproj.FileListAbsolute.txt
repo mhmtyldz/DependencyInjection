@@ -1,0 +1,6 @@
+C:\Users\Mahmut\Documents\GitHub\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\Mahmut\Documents\GitHub\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\Mahmut\Documents\GitHub\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\Mahmut\Documents\GitHub\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\Mahmut\Documents\GitHub\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\Mahmut\Documents\GitHub\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
